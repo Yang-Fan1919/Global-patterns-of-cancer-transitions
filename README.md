@@ -1,2 +1,2 @@
 # R-code
-R code for two-stage modelling
+R code for a two-stage modelling study
